@@ -1,6 +1,3 @@
-## The link to the application:
-https://todo-app-cp-b8b0a.web.app
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
